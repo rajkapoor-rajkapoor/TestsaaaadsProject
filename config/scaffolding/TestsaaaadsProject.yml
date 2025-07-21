@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestsaaaadsProject
+  gitServerName: rjaka
+  gitUrl: https://github.com/rajkapoor-rajkapoor
+  gitUsername: rajkapoor-rajkapoor
+  gitBranch: main
